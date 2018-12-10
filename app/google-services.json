@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "117242173731",
+    "firebase_url": "https://fir-imageupdown-b9039.firebaseio.com",
+    "project_id": "fir-imageupdown-b9039",
+    "storage_bucket": "fir-imageupdown-b9039.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117242173731:android:929661b709e3bc31",
+        "android_client_info": {
+          "package_name": "jdulal.com.np.androiduploadretrieveimagesusingfirebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117242173731-35k6j2ksf2dtrmgrcltpkqok31hkojto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jdulal.com.np.androiduploadretrieveimagesusingfirebasestorage",
+            "certificate_hash": "8a4b15e912c777a9a4ececb830a257205b1138ba"
+          }
+        },
+        {
+          "client_id": "117242173731-r5l8g40rab7ehs8cffhhea2udsblmgt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcaLhzEceDKxD-FA51CXDujHz5phXPglY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117242173731-r5l8g40rab7ehs8cffhhea2udsblmgt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
